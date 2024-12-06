@@ -15,3 +15,8 @@ include like write style like Readme,
 public shareing customize link, 
 add image 
 drowing notes
+
+Starting
+npm i
+then for starting
+npm run dev
